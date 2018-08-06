@@ -1,0 +1,12 @@
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\bin\Book.dll.config
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\bin\Book.dll
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\bin\Book.pdb
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\obj\Debug\Book.dll
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\obj\Debug\Book.pdb
+C:\Users\Web App Develop .Net\Desktop\Reyad\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\bin\Book.dll.config
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\bin\Book.dll
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\bin\Book.pdb
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\obj\Debug\Book.dll
+D:\Dot net C#\Project\Reyad\Reyad\Book\Book\obj\Debug\Book.pdb
